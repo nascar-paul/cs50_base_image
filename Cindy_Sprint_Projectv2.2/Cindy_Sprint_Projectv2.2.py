@@ -6,3 +6,6 @@ print (my_strings[-1])
 
 mixed_list = [1, "two", 3.0, [4, 0]]
 print (mixed_list[1])
+
+my_numbers.append(30)
+print(my_numbers)
