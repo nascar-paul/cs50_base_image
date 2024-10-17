@@ -16,6 +16,7 @@ data_points.append ((3,4))
 data_points.append ((5,6))
 
 graph_settings = ("Line Graph", "red", 2)
+graph_settings.append("new_item")
 
 for number in my_numbers:
     print (number)
