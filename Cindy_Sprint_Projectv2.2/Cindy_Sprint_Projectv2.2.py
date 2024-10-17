@@ -9,3 +9,17 @@ print (mixed_list[1])
 
 my_numbers.append(30)
 print(my_numbers)
+
+data_points = []
+data_points.append((1,2))
+data_points.append((3,4))
+data_points.append((5,6))
+print (data_points)
+
+graph_settings = ["Line Graph", "red", 2]
+
+for number in my_numbers:
+    print(number)
+
+for index, value in enumerate(my_strings):
+    print(f"Index {index}: {value}" )
